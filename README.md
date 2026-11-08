@@ -2,8 +2,6 @@
 
 An interactive, browser-based learning tool that demonstrates **backward chaining**, a goal-driven reasoning technique used in Artificial Intelligence and expert systems.
 
-**Project:** Foundations of AI (26AI601)  
-**Version:** 3.0  
 **Created by:** Mithilesh R  
 **Technology:** HTML, CSS, JavaScript
 
@@ -98,4 +96,4 @@ This project is designed to help learners connect the theory of backward chainin
 
 ---
 
-**CHAINLAB v3.0** · Built by **Mithilesh R** · Foundations of AI
+**CHAINLAB v3.0** · Built by **Mithilesh R**
